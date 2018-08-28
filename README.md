@@ -12,8 +12,8 @@ The guide introduces Rails views with `erb` templates (fwiw, they are quite simi
 
 The aforementioned Rails Guide takes you from the very start of installing Rails all the way through building out a simple blog application.  Since Rails by default initializes a `git` repo when starting a new project, the workflow for submitting tonight's homework will be a little different.  
 - After following the tutorial, commit your code
-- Then make a `new repository` on github enterprise.
-- run `git remote add origin <github enterprise repo url - the one you just created>`
+- Then make a `new repository` on github enterprise. Copy the url of this repository. 
+- run `git remote add origin <github enterprise repo url - paste the url here>`
 - Push your code to origin: `git push origin master`
 - Finally, make an issue ticket on this repo with a link to the repo you made in the previous step.
 

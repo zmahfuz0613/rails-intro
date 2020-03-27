@@ -6,23 +6,14 @@ For tonight's homework you will work through roughly the first half of the Ruby 
 
 *Important Notes:*
 
-The guide introduces Rails views with `erb` templates which provides the same functionality as does JSX in React in that you can now execute Ruby code within the HTML. The main focus of the Rails unit will be building a full-stack app using a Rails server and React client.  Yes, it is a bit of a slip to have to use erb just once while learning a bunch of new stuff.  Fortunately, the `erb` parts of the homework are very minimal.  If you want, go ahead and just paste in the `erb` code, but be sure to actually type out the rest.  The only significant `erb` part is the form; the rest is fairly similar to `ejs`.  The payoff for dealing with this slight inefficiency is being able to get a more direct introduction to controllers, routes, and models which are the meat of Rails anyway.
+The guide introduces Rails views with `erb` templates which provides the same functionality as does JSX in React in that you can now execute Ruby code within the HTML. The main focus of the Rails unit will be building a full-stack app using a Rails server and React client.  Yes, it is a bit of a slip to have to use erb just once while learning a bunch of new stuff.  Fortunately, the `erb` parts of the homework are very minimal.  If you want, go ahead and just paste in the `erb` code, but be sure to actually type out the rest.  The only significant `erb` part is the form. The payoff for dealing with this slight inefficiency is being able to get a more direct introduction to controllers, routes, and models which are the meat of Rails anyway.
 
 As of Rails 6.0, we need `yarn` to work with Rails, so if you haven't already, run `brew install yarn`.
-In addition, substitute the `rails new blog` with `rails new blog --database=postgresql` when you create the app.
-
-## Submitting Your Homework
-
-The aforementioned Rails Guide takes you from the very start of installing Rails all the way through building out a simple blog application.  Since Rails by default initializes a `git` repo when starting a new project, the workflow for submitting tonight's homework will be a little different.  
-- After following the tutorial, commit your code
-- Then make a `new repository` on github enterprise. Copy the url of this repository. 
-- run `git remote add origin <github enterprise repo url - paste the url here>`
-- Push your code to origin: `git push origin master`
-- Finally, make an issue ticket on this repo with a link to the repo you made in the previous step.  
+In addition, substitute the `rails new blog` with `rails new blog -G --database=postgresql` when you create the app.
 
 ### Deliverable
 
-A link to a repo on your github that contains the ruby blog tutorial up to and including Section 5.8
+The ruby blog tutorial up to and including Section 5.8
 
 ### Get Going
 

@@ -2,7 +2,7 @@
 
 _Introduction_
 
-For tonight's homework you will work through roughly the first half of the Ruby on Rails `Getting Started` documentation.  This tutorial is _very_ well constructed and has sheperded many new developers through the basics of the Rails framework.  Rails is a large, opinionated framework so it will take some time to get accustomed to; that said, the "Rails way" favors convention over configuration which makes it especially easy to get up and running with a minimum amount of setup.
+For this weekend's homework you will work through roughly the first half of the Ruby on Rails `Getting Started` documentation.  This tutorial is _very_ well constructed and has sheperded many new developers through the basics of the Rails framework.  Rails is a large, opinionated framework so it will take some time to get accustomed to; that said, the "Rails way" favors convention over configuration which makes it especially easy to get up and running with a minimum amount of setup.
 
 *Important Notes:*
 
